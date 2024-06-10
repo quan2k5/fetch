@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "trứng gà",
+      "image": "https://media.istockphoto.com/id/1222217192/photo/fresh-chicken-eggs.webp?b=1&s=170667a&w=0&k=20&c=npy0gB9spG8knz7z6khU_VCpl4shxP5N-cfgM1mGo9o=",
+      "price": 5,
+      "quantity": 60,
+      "created_at": "12/2/2024"
+    },
+    {
+      "id": 4,
+      "name": "thịt bò",
+      "image": "https://media.istockphoto.com/id/186764912/photo/raw-beef-steak.webp?b=1&s=170667a&w=0&k=20&c=Qen7W_PpLe8HY3Ye_MnF1vcrZQKeD0fQSiFJzFJ5P_A=",
+      "price": 20,
+      "quantity": 25,
+      "created_at": "12/2/2024"
+    },
+    {
+      "id": 6,
+      "name": "gà ấc",
+      "price": "10000",
+      "quantity": "1233",
+      "image": "https://media.istockphoto.com/id/1498497527/photo/woman-preparing-chicken-for-barbecue.webp?b=1&s=170667a&w=0&k=20&c=NJQ5UXOPpfp-_NVKHnZnzVjoghd2TwHFaJ5iqyP_KJ0=",
+      "created_at": "23/1/2024"
+    }
+  ]
+}
